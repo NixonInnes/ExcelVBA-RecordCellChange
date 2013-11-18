@@ -4,6 +4,8 @@ Please leave any feedback on the Github main page (https://github.com/NixonInnes
 
 This was written to track changes made to an excel spreadsheet. There is an in-built functionality to do this; however I found it to be rather clunky and slow.
 
+Changes made to a ROW in excel will be recorded in their respective COLUMS A & B. The date of the change is recorded into column A; the old and new values of the cells are recorded into column B.
+
 PREREQUISITES
 ==============
 - Microsoft Scripting Runtime
